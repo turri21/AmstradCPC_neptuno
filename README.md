@@ -1,5 +1,7 @@
 -=( Amstrad CPC for Neptuno FPGA & Nepturri variant. )=-
 
+Forked from: https://github.com/neurorulez/Amstrad_Cyclone
+
 Added Dandanator support (thanks to [Manuel Teira](https://github.com/teiram) / Calypso FPGA)
 
 Requirements: [amstrad.rom](https://github.com/turri21/AmstradCPC_neptuno/blob/main/neptuno/releases/amstrad.rom) placed at the root of the SD Card.
