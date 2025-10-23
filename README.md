@@ -1,4 +1,9 @@
+-=( Amstrad CPC for Neptuno FPGA & Nepturri variant. )=-
 
+Added Dandanator support (thanks to [Manuel Teira](https://github.com/teiram) / Calypso FPGA)
+
+Requirements: [amstrad.rom](https://github.com/turri21/AmstradCPC_neptuno/blob/main/neptuno/releases/amstrad.rom) placed at the root of the SD Card.
+___
 # Amstrad CPC 6128 for MiST and MiSTer
 This core has been started as a port of [CoreAmstrad by Renaud Hélias](https://github.com/renaudhelias/CoreAmstrad) but every module has been either rewritten or replaced so, now it can be treated as a completely new core.
 
