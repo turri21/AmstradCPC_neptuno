@@ -1,3 +1,0 @@
-Info (10281): Verilog HDL Declaration information at amstrad.sv(31): object "AUDIO_L" differs only in case from object "audio_l" in the same scope File: H:/Public/Amstrad_Cyclone-Demist/amstrad.sv Line: 31
-Info (10281): Verilog HDL Declaration information at amstrad.sv(32): object "AUDIO_R" differs only in case from object "audio_r" in the same scope File: H:/Public/Amstrad_Cyclone-Demist/amstrad.sv Line: 32
-Info (10281): Verilog HDL Declaration information at amstrad.sv(765): object "b" differs only in case from object "B" in the same scope File: H:/Public/Amstrad_Cyclone-Demist/amstrad.sv Line: 765
